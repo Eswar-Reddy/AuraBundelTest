@@ -2,6 +2,12 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>37.0</version>
     <types>
+        <members>ExpenseController</members>
+        <members>LREngine</members>
+        <members>TestLREngine</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
         <members>TestLight</members>
         <members>TestLight1</members>
         <name>AuraDefinitionBundle</name>
